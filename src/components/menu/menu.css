@@ -1,0 +1,39 @@
+.menu-bg .navbar-nav a{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 14px;
+    color: #000000;
+    padding: 0 27px !important;
+    transition: 0.3s;
+}
+.menu-bg .navbar-nav:last-child a{
+    
+}
+
+
+.menu-bg .navbar-nav a:hover{
+    color: #3734A9;
+}
+
+.btn a{
+    border: 1px solid rgba(0, 0, 0, 0.151);
+    padding: 15px 35px;
+    border-radius: 5px;
+    font-family: "Manrope", sans-serif;
+    font-weight: 600px;
+    font-size: 14px;
+    color: black;
+    transition: 0.5s;
+    
+    
+}
+.btn a:hover{
+    background-color: #3734A9;
+    color: white;
+}
+.second{
+    margin-left: 20px;
+}
+
+
+

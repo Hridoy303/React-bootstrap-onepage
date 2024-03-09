@@ -1,0 +1,50 @@
+#ban-link{
+    padding-top: 114px;
+}
+
+
+.lin-text h4{
+    font-family: "Manrope", sans-serif;
+    font-weight: 800px;
+    font-size: 18px;
+   color: #3734A9;
+   margin-top: 10px;
+}
+.lin-text h1{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700px;
+    font-size: 50px;
+    line-height: 56px;
+    letter-spacing: -3%;
+   color: #000000;
+   margin-top: 25px;
+
+   width: 540px;
+}
+.lin-text p{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: -2%;
+    color: #757095;
+    width: 512px;
+    margin-top: 26px;
+}
+.get-btn{
+    margin-top: 30px;
+}
+.get-btn a{
+    border: 1px solid #7570953f ;
+    padding: 15px 35px;
+    border-radius: 5px;
+    box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    transition: 0.3s;
+    
+}
+.get-btn a:hover{
+    background-color: #3734A9;
+    color: white;
+}

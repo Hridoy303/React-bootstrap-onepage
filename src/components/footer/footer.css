@@ -1,0 +1,158 @@
+#ban-footer{
+   background-color: #1B1C31;
+   padding-top: 100px;
+}
+
+
+.log p{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+    color: rgba(255, 255, 255, 0.411);
+    width: 520px;
+    margin-top: 18px;
+
+}
+.com-text {
+    margin-left: 170px;
+}
+.com-text h2{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700px;
+    font-size: 21px;
+    color: white;
+}
+.com-text h3{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color: #ffffffb7;
+    margin-top: 35px;
+}
+.com-text h4{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color:#ffffffb7;
+    margin-top: 18px;
+
+}
+.com-text h5{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color: #ffffffb9;
+    margin-top: 18px;
+    
+}
+.com-text h6{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color: #ffffffb7;
+    margin-top: 18px;
+    
+}
+
+.product{
+    margin-left: 70px;
+}
+.res{
+    margin-left: 70px;
+}
+.product h2{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700px;
+    font-size: 21px;
+    color: white;
+}
+.product h3{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color: #ffffffb7;
+    margin-top: 35px;
+    width: 135px;
+}
+.product h4{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color:#ffffffb7;
+    margin-top: 18px;
+    width: 164px;
+}
+.product h5{
+
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color:#ffffffb7;
+    margin-top: 18px;
+    width: 121px;
+}
+.product h6{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color:#ffffffb7;
+    margin-top: 18px;
+    
+}
+.res h2{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700px;
+    font-size: 21px;
+    color: white;
+}
+.res h3{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color: #ffffffb7;
+    margin-top: 35px;
+    width: 139px;
+
+}
+.res h4{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color:#ffffffb7;
+    margin-top: 18px;
+    width: 127px;
+}
+.res h5{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color:#ffffffb7;
+    margin-top: 18px;
+}
+.res h6{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color:#ffffffb7;
+    margin-top: 18px;
+    width: 174px;
+    line-height: 24px;
+}
+.text-area h4{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700px;
+    font-size: 12px;
+    line-height: 26px;
+    color: white;
+    margin: 19px 0px;
+}
+.right-area h4{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700px;
+    font-size: 12px;
+    line-height: 26px;
+    color: white;
+    
+    margin: 19px 0px;
+}

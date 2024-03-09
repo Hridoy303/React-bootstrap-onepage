@@ -1,0 +1,221 @@
+.test-text h3{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700px;
+    font-size: 14px;
+    color: #3734A9;
+}
+.test-text h2{
+   
+    font-family: "Manrope", sans-serif;
+    font-weight: 800px;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: -3%;
+    width: 400px;
+    color: #000000;
+    margin-top: 13px;
+}
+.left-tes{
+    margin-top: 40px;
+
+
+}
+
+.right-tes{
+    margin-top: 40px;
+}
+.right-tes h2{
+    font-family: "Manrope", sans-serif;
+    font-weight: 800px;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -3%;
+    color: #000000;
+    margin-top: 16px;
+    width: 290px;
+    
+}
+.right-tes p{
+    color: #757095;
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -2%;
+    margin-top: 16px;
+    
+}
+.right-tes h3{
+    color:#000000;
+    font-family: "Manrope", sans-serif;
+    font-weight: 800px;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: -3%;
+    margin-top: 5px;
+}
+.right-tes h4{
+    color: #757095;
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: -2%;
+    
+}
+
+.main{
+    width: 1174px;
+    height: 120px;
+    border: 1px solid #DEE1E6;
+    margin-top: 65px;
+    border-radius: 15px;
+    box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+
+}
+.text{
+    display: flex;
+
+    margin-left: 28px;
+}
+.text p{
+    color: #757095;
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: -2%;
+    width: 795px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.text a{
+    margin-top: 40px;
+    
+    border: 1px solid #7570954d ;
+    padding: 15px 65px;
+    border-radius: 47px;
+    margin-bottom: 40px;
+    margin-left: 102px;
+    background-color: #FF7F5C;
+    color: white;
+    transition: 0.5s;
+    box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+}
+.text a:hover{
+    background-color: #3734A9;
+   
+    
+
+
+}
+.left-on{
+    height: 378px;
+
+}
+.left-on img{
+    height: 378px;
+    width: 653px;
+    width: 100%;
+    
+}
+
+.left-tw{
+    height: 378px;
+
+}
+.left-tw img{
+    height: 378px;
+    width: 653px;
+    width: 100%;
+}
+
+.next{
+    background-color:#3734A9;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    margin-top: 40px;
+    
+    box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+}
+.prev{
+    
+    border: 1px solid rgba(0, 0, 0, 0.192);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    
+    margin-top: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 30px;
+    margin-left: 30px;
+    transition: 0.5s;
+    cursor: pointer;
+    
+    box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+}
+.prev:hover{
+    background-color:#3734A9;
+    color: white;
+    cursor: pointer;
+}
+
+.sei{
+    font-size: 30px;
+}
+.oi{
+    font-size: 30px;
+}
+.slick-dots{
+    position: absolute;
+    top: 410px;
+    left: 200px;
+    
+    
+}
+.slick-dots li{
+    display: inline-block;
+    height: 17px;
+    width: 17px;
+    background-color:#000000a1;
+    border-radius: 50%;
+    margin: 0px 5px;
+}
+
+.slick-dots li button{
+    height: 8px;
+    width: 8px;
+    background-color: white;
+    border-radius: 50%;
+    border: none;
+    color: transparent;
+   
+    margin-left: 5px;
+    margin-bottom: 12px;
+    opacity: 0;
+    
+}
+.slick-dots li.slick-active button{
+    opacity: 1;
+}
+
+
+.main-pos{
+    position: relative;
+}

@@ -1,0 +1,64 @@
+#ban-choose{
+    background-color: #F3F7FA;
+    padding-bottom: 56px;
+}
+.up-text{
+    margin: 56px 0;
+}
+.up-text h5{
+    font-family: "Manrope", sans-serif;
+    font-weight: 800px;
+    font-size: 18px;
+    color: #3734A9;
+}
+.up-text h3{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700px;
+    font-size: 50px;
+    line-height: 69px;
+    letter-spacing: -3%;
+    color: #000000;
+}
+.main-div{
+   
+    padding: 70px 0px;
+    background-color:white;
+    position: relative;
+    box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 7px 8px -2px rgba(0,0,0,0.75);
+    border-radius: 10px;
+    margin: 20px 0;
+    
+
+}
+
+.vic-img {
+   position: absolute;
+   top: 59px;
+   left: 40px;
+    
+}
+
+.deep h5{
+    font-family: "Manrope", sans-serif;
+    font-weight: 800px;
+    font-size: 24px;
+    color: #000000;
+    margin-left: 120px;
+   
+    
+    
+    
+}
+.deep p{
+    color: #757095;
+    font-family: "Manrope", sans-serif;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -2%;
+    margin-left: 120px;
+
+    
+}
