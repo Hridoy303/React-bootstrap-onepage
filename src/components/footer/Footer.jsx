@@ -1,12 +1,18 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import foot from '../../assets/foot.png'
+import ScrollToTop from "react-scroll-to-top";
+import { FaArrowUp } from "react-icons/fa6";
+
 
 import './footer.css'
 
 const Footer = () => {
   return (
+   
+    
     <div>
+       <ScrollToTop height='25' width='28' color='white' smooth top='500' className='sc-icon' />
      <section id='ban-footer'>
         <Container>
             <Row>
